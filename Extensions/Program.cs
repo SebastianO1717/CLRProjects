@@ -7,7 +7,7 @@
 /// 
 /// </summary>
 /// 
-// New Comment
+// New Comment - publishing branchs
 public interface FooInterface
 {
     string Name { get; set; }
