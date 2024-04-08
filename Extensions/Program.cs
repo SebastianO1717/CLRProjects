@@ -5,7 +5,7 @@
 /// When using an extension method to extend a type whose source code you aren't in control of, you run the risk that a change in the implementation of the type will cause your extension method to break.
 /// 
 /// 
-/// </summary> change
+/// </summary> change new draft pr
 public interface FooInterface
 {
     string Name { get; set; }
