@@ -6,6 +6,7 @@
 /// 
 /// 
 /// </summary>
+/// Adding an extra comment
 public interface FooInterface
 {
     string Name { get; set; }
