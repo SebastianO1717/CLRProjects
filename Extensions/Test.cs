@@ -8,6 +8,6 @@ namespace Extensions
 {
     internal class Test
     {
-        // This is a test class
+        // This is a test class!
     }
 }
