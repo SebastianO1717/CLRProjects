@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	  <CLRSupport>false</CLRSupport>
+	  <CLRSupport>false</CLRSupport>
   </PropertyGroup>
 
 </Project>
