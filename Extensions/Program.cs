@@ -6,6 +6,8 @@
 /// 
 /// 
 /// </summary>
+/// 
+// some new changes
 public interface FooInterface
 {
     string Name { get; set; }
