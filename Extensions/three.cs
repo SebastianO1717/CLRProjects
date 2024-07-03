@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Extensions
 {
-    internal class Renaming
+    internal class three
     {
     }
 }
